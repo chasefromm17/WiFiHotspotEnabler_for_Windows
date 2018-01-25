@@ -1,3 +1,3 @@
-netsh wlan set hostednetwork mode=allow ssid=ChasesWiFi key=chasefromm
+netsh wlan set hostednetwork mode=allow ssid=hotspot key=hotspot
 netsh wlan start hostednetwork
 pause
