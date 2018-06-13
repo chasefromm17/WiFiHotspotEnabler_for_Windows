@@ -1,6 +1,8 @@
 # WiFiHotspotEnabler for Windows
 
-**Description**: Enables a Wi-Fi hotspot on Windows. Run the .bat file in administrator mode, and press the "Enter" key on your keyboard to enable the hotspot. By default, the name is hotspot, and the password is hotspot. Tested only on one Windows 10 machine, being my Dell Inspirion laptop.
+**Description**: Enables a Wi-Fi hotspot on Windows.
+
+Run the .bat file in administrator mode, and press the "Enter" key on your keyboard to enable the hotspot. By default, the SSID/name is hotspot, and the password is hotspot. Tested on a Windows 7 machine, and a Windows 10 machine.
 
 **License**: Licensed under the MIT license.
 
