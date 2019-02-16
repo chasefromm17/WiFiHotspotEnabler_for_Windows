@@ -2,7 +2,7 @@
 
 **Description**: Enables a Wi-Fi hotspot on Windows by running a simple .bat file with Command Prompt.
 
-Run the .bat file in administrator mode, and press the "Enter" key on your keyboard to enable the hotspot. By default, the SSID/name is "hotspot", and the password is "hotspot". Only tested on a Windows 7 machine that's a Dell Vostro 1710 running Windows 7.
+Run the .bat file as an administrator (by simply right-clicking on the .bat file and selecting "Run as Administrator"), and press the "Enter" key on your keyboard to enable the hotspot. By default, the SSID/name is "hotspot", and the password is "hotspot". Only tested on a Windows 7 machine that's a Dell Vostro 1710 running Windows 7.
 
 **License**: Licensed under the MIT license.
 
